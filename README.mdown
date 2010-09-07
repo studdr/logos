@@ -1,0 +1,35 @@
+# STUDDR LOGOS
+
+## License
+Studdr logos are licensed by the Creative Commons Attribution-NoDerivs 3.0 Unported License which can be located in the LICENSE.txt file included in this repository.
+
+## Copyright
+Copyright 2010 Afzet, Inc. All Rights Reserved
+
+## Trademark
+All logos are trademarked by Afzet, Inc.
+
+## Contact
+For more information about use of the logos please email info@studdr.com and one of associates will respond as soon as they can.
+
+--------------------------------------------------------------------------------------------
+
+## Low Resolution Images:
+FOLDER: images
+--------------------------------------------------------------------------------------------
+studder_logo.gif		- logo with border and gradient on white background
+studder_logo.jpg		- logo with border and gradient on white background
+studder_logo.png		- logo with border and gradient on white background
+studder_logo_flat.gif		- logo with no border or gradient on white background
+studder_logo_flat.jpg		- logo with no border or gradient on white background
+studder_logo_flat.png		- logo with no border or gradient on transparent background
+studder_logo_no_outline.gif 	- logo no gradient but with gradient on white background
+studder_logo_no_outline.jpg	- logo no gradient but with gradient on white background
+studder_logo_no_outline.png	- logo no gradient but with gradient on transparent background
+
+## High Resolution Graphics
+FOLDER: vectors
+--------------------------------------------------------------------------------------------
+studdr_logo.eps			- no border, black S, blue tudd and black 's
+studdr_logo.avie		- no border, black S, blue tudd and black 's
+studdr_logo.svg			- no border, no gradient black
